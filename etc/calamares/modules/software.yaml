@@ -113,7 +113,10 @@
   selected: false
   expanded: false
   packages: 
-    - budgie
+    - budgie-desktop
+    - budgie-extras
+    - budgie-desktop-view
+    - budgie-backgrounds
     - terminator
     - abiword
     - thunar
@@ -145,3 +148,15 @@
     - tint2
     - lxappearance-obconf
     - obkey
+- name: "Plasma"
+  description: "Installs KDE Plasma 6"
+  critical: false
+  hidden: false
+  selected: false
+  expanded: false
+  packages: 
+    - plasma-meta
+    - dolphin
+    - konsole
+    - kdeplasma-addons
+
