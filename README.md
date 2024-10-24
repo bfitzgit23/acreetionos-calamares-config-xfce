@@ -1,1 +1,1 @@
-# calamares-branding-stormos
+# calamares-configs-stormos
