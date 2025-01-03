@@ -56,9 +56,8 @@
   selected: false
   expanded: true
   packages:
-   - google-chrome
+   - chromium
    - brave-bin
-   - microsoft-edge-stable-bin
 - name: "VirtualBox"
   description: "Installs VirtualBox"
   critical: false
