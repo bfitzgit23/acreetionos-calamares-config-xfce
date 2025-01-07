@@ -1,0 +1,6 @@
+---
+# Whether to copy the network configuration from the live environment
+internet: true
+
+# Whether to write NetworkManager configuration
+writeNetworkConfigs: true
