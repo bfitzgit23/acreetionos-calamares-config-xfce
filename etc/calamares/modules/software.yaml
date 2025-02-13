@@ -101,3 +101,5 @@
     - mintstick-git
     - oh-my-bash-git
     - axel
+    - bbswitch
+    - acpi_call
