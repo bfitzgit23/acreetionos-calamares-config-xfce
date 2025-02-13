@@ -87,7 +87,7 @@
     - mousepad
     - gnome-disk-utility
     - compiz-easy-patch
-    - yay-bin
+    - yay
     - chromium
     - xfce4
     - xfce4-goodies
@@ -100,3 +100,4 @@
     - adw-gtk-theme-git
     - mintstick-git
     - oh-my-bash-git
+    - axel
