@@ -68,8 +68,8 @@
     - virtualbox
     - virtualbox-host-dkms
     - virtualbox-guest-utils
-- name: "Acreetoin Loaded Software"
-  description: "Cinnamon Config files"
+- name: "StormOS Loaded Software"
+  description: "XFCE Config files"
   critical: false
   hidden: true
   selected: true
