@@ -12,13 +12,13 @@ windowPlacement: center
 sidebar: qml,top
 
 strings:
-    productName:         StormOS
-    shortProductName:    StormOS
-    version:             Vida
-    shortVersion:        Vida
-    versionedName:       StormOS
-    shortVersionedName:  StormOS
-    bootloaderEntryName: StormOS
+    productName:         AcreetionOS-XFCE 
+    shortProductName:    AcreetionOS-XFCE 
+    version:             0.1
+    shortVersion:        0.1
+    versionedName:       AcreetionOS-XFCE 
+    shortVersionedName:  AcreetionOS-XFCE 
+    bootloaderEntryName: AcreetionOS-XFCE 
 
 images:
     productLogo:         "squid.png"
