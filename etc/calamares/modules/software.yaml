@@ -68,7 +68,7 @@
     - virtualbox
     - virtualbox-host-dkms
     - virtualbox-guest-utils
-- name: "StormOS Loaded Software"
+- name: "AcreetionOS-XFCE Loaded Software"
   description: "XFCE Config files"
   critical: false
   hidden: true
